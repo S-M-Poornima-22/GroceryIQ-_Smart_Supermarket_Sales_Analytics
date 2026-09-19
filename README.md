@@ -39,6 +39,10 @@ GroceryIQ brings these answers together in one interactive dashboard, making sal
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Explore live](tamil.pbix)
+
 ## What You Can Explore
 
 * 📊 Monitor overall sales performance
