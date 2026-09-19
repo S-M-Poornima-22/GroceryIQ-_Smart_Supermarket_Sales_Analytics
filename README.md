@@ -37,11 +37,7 @@ GroceryIQ brings these answers together in one interactive dashboard, making sal
 
 ![Sales Overview](screenshots/data.png)
 
----
-
-## 🌐 Live Demo
-
-👉 [Explore live](tamil.pbix)
+--- 
 
 ## What You Can Explore
 
